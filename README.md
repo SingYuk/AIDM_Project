@@ -1,1 +1,1 @@
-# AIDM_Project
+- This is my AIDM 7330 project. I analyse the condition of hotel booking in different months.

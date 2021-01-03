@@ -1,1 +1,3 @@
-- This is my AIDM 7330 project. I analyse the condition of hotel booking in different months.
+- AIDM 7330 project, I collect data from database, and analyse the condition of hotel booking in different months.
+- AIDM 7360 project, I collect NBA data from website and make a automatical info checking system by python and sql.
+- AIDM 7390 project, I collect data from twitter api and analyse NBA influence in different countries.`

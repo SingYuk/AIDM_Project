@@ -2,3 +2,4 @@
 - AIDM 7360 project, I collect NBA data from website and make a automatical info checking system by python and sql.
 - AIDM 7390 project, I collect data from twitter api and analyse NBA influence in different countries.`
 - AIDM 7400 project called data visualization course. I scrape data from Openrice website by Python and visualize the dataset by Tableau tool.
+- AIDM 

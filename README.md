@@ -7,3 +7,4 @@
 - AIDM 7370 project called AI application. This is about predicting horse racing in HK. We use Keras model, KNN, logistic regression, Random forest classification method to predict the rate of win in horse racing.
 - AIDM 7380 project called Recommended System. We use Uer-based Collaborative filtering and Item-based Collaborative filtering to do Recipe recommended system for users.
 - HKDSE_Analysis_Journalism. This project is based on Python. I collect data from Goverment Website and use python to clean data, visualize the data. To find some insights from our data. If you want to know what knowlege I discover in this project, please feel free to look through my report.
+- A/B test. Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats.
